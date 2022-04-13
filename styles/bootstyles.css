@@ -1,0 +1,64 @@
+/*Kyra Loutensock 4/13/22*/
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    float: right;
+    position: relative;
+    padding-right: 20px;
+}
+
+a{
+    color: darkslategrey;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.mainbody{
+    top: 100px;
+    bottom: 50px;
+    left: 100px;
+    right: 100px;
+    position: absolute;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(238, 235, 248)
+}
+.caption{
+    font-size: 22px;
+    text-align: center;
+    border: solid 2px black;
+}
+
+.footer{
+    bottom: 20px;
+    left: 5px;
+    right: 5px;
+    height: 20px;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+}
+
+.footerwords{
+    font-size: 20px;
+    color: black;
+}
+
+h1{
+    text-align: left;
+    top: 5px; 
+    position: absolute;
+}
+
+.top{
+    float: left;
+}
+
+.copyright{
+    float: right;
+}

@@ -1,0 +1,39 @@
+/*Kyra Loutensock 4/12/22*/
+H1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.backgroundhp{
+    background-color: rgb(238, 235, 248);
+}
+
+.backgroundam{
+    background-color: rgb(254, 238, 241);
+}
+.resumeheading{
+    text-align: left;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+li{
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.contactinfo{
+    font-size: 15px;
+    color: rgb(111, 106, 106);
+}
+
+p{
+    font-size: 23px;
+}
+
+img{
+    padding-top: 5px;
+}
+
+.top{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
